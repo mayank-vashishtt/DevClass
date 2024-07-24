@@ -1,0 +1,21 @@
+so what is it in the classes 
+
+
+so we will take it as a  crash course 
+
+-- start 
+-- html css 
+-- js  --- Ethr 
+--- basic backend 
+-- react -- Ethr 
+-- next   ----> feel you can leave here --->  ptr 1 -- Ethr
+
+
+-- advance
+-- devops 
+-- kafka
+--- adv frontend and adv backend 
+-- andriod development   ---> ptr 2 
+
+
+-- minimum 3 project  
