@@ -19,3 +19,162 @@ so we will take it as a  crash course
 
 
 -- minimum 3 project  
+
+-- GIT 
+git uploading framework 
+
+-- 1git init -- we have to do this only at a time of making a repo, do how much change no need to do this command 
+-- git add .  --- you should do this command always , it is for adding files or updated files 
+-- git commit -m "qwerty"  --- this is for giving the reference to your commit 
+-- git branch -M main -- we have made this branch, of your repo have only one branch , then no need to make this command again and again
+-- 1git remote add (http..... ) --- this even have to do only one time to make connection
+-- git push / git push -u origin main 
+
+
+- Homework -- what is command to push forcefully and what is meaning of this...  ?
+
+html
+hypertext markup language 
+--- there is 2 main things in HTML 
+-- tags and attributes 
+--- tags  ---> <h1> <a> <img> 
+--- attributes --> < ... src = ''> <... align="left"> 
+
+
+
+goal of website -->  connect  one person to another computer --- another computer <give me some content -- html,css and java files>
+goal of browser -->  connect  users to hit specific servers using URL, it give back css,html and js and render back it on screen 
+
+
+- Homework -- what is DNS and DNS lookup ?
+ --- how to give comments in HTML?
+
+
+div -- one full width of a line , if more than that it will overflow  
+span -- it will only take as much space as it needs , dont go to next line 
+
+
+biolerplates --- it is sequence to write good lookup code, what wtf we even run without it -- good company practise 
+
+
+- HW span doesn't work in flexbox, is it right if yes then why?
+
+- HW what is diff between padding margin and border 
+- HARD -- fork my repo and then through terminal add the ans below every question in the branch named Harsh 
+
+
+priority in css 
+inline > in file > another file 
+
+ flexbox works for only immediate children
+
+
+
+HW ---- 
+ background 
+ border-radius 
+ border 1px solid black 
+ padding
+ margin 
+ box-shadow 2px 10px 10px black
+ font-size
+
+
+
+
+
+
+
+
+ JS ---- 
+
+ replit -- in maang interviews, majority of time you will be using this to solve js problems 
+
+ Interpreted lang
+ line by line lang
+ single threded lang 
+ dynamic lang 
+
+ java ,  c is static lang 
+
+
+ ECMAScript 
+ it is a scripting language in which js is based 
+ serve as the guideline on the rules for scripting language design ES6, ES5
+
+ js
+it is a scripting lang that conforms to the ECMAScript specification 
+js even have additional feature -- setinterval , fs, 
+
+v8  - chrome open-source
+spidermonkey  -- firefox
+these are compiler which compile js code and should be changeed acc to latest ECMAScript updates 
+
+
+
+- HW, def between const, var , let 
+
+
+
+JS RoadMAP ---- 
+// apis 
+// sync and async
+// promises 
+// setTimeout, setInterval, and many more like fetch 
+
+
+
+-HW 
+//setInterval(greet, 2*1000), how to break this loop ? 
+
+
+
+____OVER The first class 
+1 html -- tags, attribute, div and span 
+2 CSS -- inline , flex , outer css 
+3 project 1 -- zerodha clone HW 
+4 flexbox 
+5 working of website and browser 
+6 git basics
+7 intro to js 
+8 js theorgy 
+9 setinterval and setTimeout
+10 how to make function in js 
+11 array in js 
+
+
+
+QUIZ  --- Time -- 15 mins only HW . 
+1
+what is diff between ECMAScript and js?  -- 5 marks   
+
+2
+what is flexbox and give me its eg code snippet ? -- 2 marks  
+
+3
+I have an arr, i want to add 0 to 10 elements in it after each 5 seconds ? -- 10 marks  
+
+4
+what is basic diff between website and browser and give me 2 browser with there js compiler ? -- 3 marks 
+
+5
+explain me the priority line of css styles and why it is so? -- 1 marks 
+
+
+
+
+
+
+
+let arr = [];
+
+    // Function to add elements 0 to 10 to the array
+    function addElements() {
+      for (let i = 0; i <= 10; i++) {
+        arr.push(i);
+      }
+      console.log("Array after adding elements:", arr);
+    }
+
+    // Use setInterval to call addElements every 5 seconds (5000 milliseconds)
+    setInterval(addElements, 5000);
