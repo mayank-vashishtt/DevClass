@@ -1,0 +1,79 @@
+SO what is in this course 
+we are dividing this course in 2 major parts 
+
+
+One is -- Intermediate Dev 
+Another is  -- Advance Dev 
+
+
+SO intially,  we will be taking 6-8 class in week of Intermediate dev and 1-2 class of Advance Dev
+
+
+SO lets start with the differnce between 
+
+WEBSITE and BROWSER 
+website -- connect one person to another computer
+browser -- allow user to hit back servers using URLs, it give back what ? -- JS, HTML, CSS and render it back on your screen 
+
+Now, lets speak about what is JS, HTML < CSS 
+js is -- javascript 
+html -- hypertext markup language
+css - cascading style sheet 
+
+
+SO, let me give you one of the famous example in the buzz about these things, 
+see there is a human -- his skeleton is HTML, muscles is CSS and the brain and neura networking, all the processing thing in him is JS 
+
+
+
+-- HTML -- 
+so let me just give you check about the imp topics in html 
+biolerplates -- it is sequence to write good lookup code, what? wtf we even run without it -- good company practice 
+
+
+
+<h1> to <h6>
+<p>
+<div>
+<ul>, <ol>, <li>
+<form>
+<input>
+<button>
+<table>, <tr>, <td>, <th>
+<span>
+
+? HW -- its your task to implement these function in the c0.html file for the first marks check 
+
+You should even know the basic differnce between tag an attributes in html 
+tag -- img, p ,h1
+attribute -- src, align
+
+Differnce between 
+div and span 
+ div -- one full width of a line , if more than that it will overflow  
+ span -- it will only take as much space as it needs , dont go to next line 
+
+
+
+--- CSS --- 
+
+ background 
+ border-radius 
+ border 1px solid black 
+ padding
+ margin 
+ box-shadow 2px 10px 10px black
+ font-size
+
+?HW -- its your task to implement these function in this dir 
+flexbox works for only immediate children
+
+-- remember this -- we wll continue css in another class where we will be going in depth of it 
+
+
+
+
+-- Javascript -- 
+we will be learning some theorgy 
+then will go in depth 
+here we will be ending the inaugural class
